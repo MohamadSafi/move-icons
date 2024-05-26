@@ -1,0 +1,16 @@
+{
+  "iconDefinitions": {
+    "move-icon": {
+      "iconPath": "./icons/move.png"
+    }
+  },
+  "fileExtensions": {
+    "move": "move-icon"
+  },
+  "fileNames": {
+    "*.move": "move-icon"
+  },
+  "languageIds": {
+    "move": "move-icon"
+  }
+}
